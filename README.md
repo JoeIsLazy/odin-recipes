@@ -1,0 +1,1 @@
+This is a project to work along side the odin project and practice git.
